@@ -1,31 +1,35 @@
-
-> Open this page at [https://craftandcode.github.io/alien-pet/](https://craftandcode.github.io/alien-pet/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/craftandcode/alien-pet** and import
-
-## Edit this project ![Build status badge](https://github.com/craftandcode/alien-pet/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/craftandcode/alien-pet** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/craftandcode/alien-pet/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+# @autoOpen = true
+```codecard
+[
+{
+    "name": "Your first program",
+    "imageUrl":"....",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/basic", 
+    "description": "Learn to use MakeCode blocks to say hello", 
+    "cardType": "tutorial",
+    "label": "New? Start Here!",
+    "labelClass": "red ribbon large"
+},
+{
+    "name": "Showing pictures",
+    "imageUrl":"....",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/graphics", 
+    "description": "Learn to show images and animations with your Micro:bit", 
+    "cardType": "tutorial"
+},
+{
+    "name": "Playing music",
+    "imageUrl":"....",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/music", 
+    "description": "Learn to play different sounds and make music", 
+    "cardType": "tutorial"
+},
+{
+    "name": "Using buttons",
+    "imageUrl":"....",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/buttons", 
+    "description": "Make your Micro:bit react when buttons are pressed", 
+    "cardType": "tutorial"
+}
+]
+```
