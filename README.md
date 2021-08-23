@@ -1,35 +1,47 @@
-# @autoOpen = true
+### @autoOpen = true
+
+## ~button /basic
+
+NEXT: Tutorials
+
+## ~
 ```codecard
 [
 {
-    "name": "Your first program",
+    "name": "1.0 Your first program",
     "imageUrl":"....",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/basic", 
     "description": "Learn to use MakeCode blocks to say hello", 
     "cardType": "tutorial",
     "label": "New? Start Here!",
-    "labelClass": "red ribbon large"
+    "labelClass": "purple ribbon large"
 },
 {
-    "name": "Showing pictures",
+    "name": "1.1 Showing pictures",
     "imageUrl":"....",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/graphics", 
-    "description": "Learn to show images and animations with your Micro:bit", 
-    "cardType": "tutorial"
+    "description": "Display images and animations with your Micro:bit", 
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
 },
 {
-    "name": "Playing music",
+    "name": "1.2 Playing music",
     "imageUrl":"....",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/music", 
     "description": "Learn to play different sounds and make music", 
-    "cardType": "tutorial"
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
 },
 {
-    "name": "Using buttons",
+    "name": "1.3 Using buttons",
     "imageUrl":"....",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/buttons", 
     "description": "Make your Micro:bit react when buttons are pressed", 
-    "cardType": "tutorial"
+    "cardType": "tutorial",
+    "label": "Easy",
+    "labelClass": "green ribbon small"
 }
 ]
 ```
