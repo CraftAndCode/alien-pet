@@ -1,10 +1,5 @@
 ### @autoOpen = true
 
-## ~button /basic
-
-NEXT: Tutorials
-
-## ~
 ```codecard
 [
 {
