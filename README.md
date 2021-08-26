@@ -5,7 +5,7 @@
 {
     "name": "Get to know your alien pet!",
     "imageUrl":"....",
-    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/basic", 
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/alienpet", 
     "description": "Modify the code for your alien pet with our help", 
     "cardType": "tutorial",
     "label": "New? Start here!",
@@ -18,7 +18,7 @@
 ```codecard
 [
 {
-    "name": "1.0 Your first program",
+    "name": "1.1 Your first program",
     "imageUrl":"....",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/basic", 
     "description": "Learn to use MakeCode blocks to say hello", 
@@ -27,19 +27,10 @@
     "labelClass": "green ribbon small"
 },
 {
-    "name": "1.1 Showing pictures",
+    "name": "1.2 Showing pictures",
     "imageUrl":"....",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/graphics", 
     "description": "Display images and animations with your Micro:bit", 
-    "cardType": "tutorial",
-    "label": "Easy",
-    "labelClass": "green ribbon small"
-},
-{
-    "name": "1.2 Playing music",
-    "imageUrl":"....",
-    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/music", 
-    "description": "Learn to play different sounds and make music", 
     "cardType": "tutorial",
     "label": "Easy",
     "labelClass": "green ribbon small"
