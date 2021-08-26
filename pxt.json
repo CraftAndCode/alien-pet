@@ -13,7 +13,8 @@
         "basic.md",
         "graphics.md",
         "music.md",
-        "buttons.md"
+        "buttons.md",
+        "alienpet.md"
     ],
     "testFiles": [
         "test.ts"

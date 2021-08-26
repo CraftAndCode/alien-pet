@@ -38,7 +38,7 @@ basic.forever(function () {
 ```
 ## Step 4
 
-Ready? Wonderful! Now download your code to Micro:bit using the ``|download|`` button (you may have to click ``|....|`` and pair your device the first time) and enjoy watching your first program in action!
+Ready? Wonderful! Now download your code to Micro:bit using the ``|Download|`` button (you may have to click ``|....|`` and pair your device the first time) and enjoy watching your first program in action!
 
 ## Step 5
 ### Do it yourself

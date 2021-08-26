@@ -3,13 +3,28 @@
 ```codecard
 [
 {
+    "name": "Get to know your alien pet!",
+    "imageUrl":"....",
+    "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/basic", 
+    "description": "Modify the code for your alien pet with our help", 
+    "cardType": "tutorial",
+    "label": "New? Start here!",
+    "labelClass": "purple ribbon large"
+}
+]
+```
+
+
+```codecard
+[
+{
     "name": "1.0 Your first program",
     "imageUrl":"....",
     "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet/basic", 
     "description": "Learn to use MakeCode blocks to say hello", 
     "cardType": "tutorial",
-    "label": "New? Start Here!",
-    "labelClass": "purple ribbon large"
+    "label": "Easy",
+    "labelClass": "green ribbon small"
 },
 {
     "name": "1.1 Showing pictures",
