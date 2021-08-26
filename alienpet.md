@@ -151,8 +151,9 @@ Hello! This is a program for your Alien Pet. Let's modify it!
 
 ## Step 1 @showHint
 ### Changing Pet's expressions
-You can control pet's facial expressions. First, find this place in the code.
+You can control pet's facial expressions. First, find this place in the code:
 ```blocks
+soundExpression.hello.play()
 basic.showLeds(`
     . . . . .
     . # . # .
