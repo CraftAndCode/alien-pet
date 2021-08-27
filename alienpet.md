@@ -23,7 +23,7 @@ basic.showLeds(`
     # . . . #
     . # # # .
     `)
-while (!(input.buttonIsPressed(Button.AB))) {
+while (!(input.buttonIsPressed(Button.A) || input.buttonIsPressed(Button.B))) {
     basic.pause(1)
 }
 soundExpression.giggle.play()
@@ -136,7 +136,6 @@ basic.forever(function () {
         petmood = randint(1, 5)
     }
 })
-
 
 ```
 
