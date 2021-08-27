@@ -11,11 +11,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "basic.md",
-        "graphics.md",
-        "buttons.md",
-        "alienpet.md",
-        "blockcards.md"
+        "alienpet.md"
     ],
     "testFiles": [
         "test.ts"
