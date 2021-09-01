@@ -1,5 +1,6 @@
 # Alien Pet
 ```package
+devices
 proportionalFont=github:lwchkg/pxt-proportional-font
 ```
 ```template
