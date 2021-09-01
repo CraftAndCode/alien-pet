@@ -8,8 +8,6 @@ proportionalFont=github:lwchkg/pxt-proportional-font
 ```
 ```template
 
-    // This code is essential for your program to work.
-    // Please, don't change it.
 let cleans = 0
 let plays = 0
 let jumps = 0
