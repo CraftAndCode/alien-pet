@@ -61,7 +61,7 @@ basic.forever(function () {
             proportionalFont.showString("Play!  ", 150)
             basic.clearScreen()
             plays = randint(0, 9)
-            for (let index = 0; index <= plays; index++) {
+            for (let index2 = 0; index2 <= plays; index2++) {
                 if (Math.randomBoolean()) {
                     basic.showArrow(ArrowNames.West)
                     while (!(input.buttonIsPressed(Button.A))) {
@@ -90,9 +90,9 @@ basic.forever(function () {
             proportionalFont.showString("Clean!  ", 150)
             basic.clearScreen()
             cleans = randint(63, 511)
-            for (let index = 0; index <= cleans; index++) {
+            for (let index3 = 0; index3 <= cleans; index3++) {
                 led.plotBarGraph(
-                index,
+                index3,
                 cleans
                 )
                 while (!(input.logoIsPressed())) {
@@ -100,9 +100,9 @@ basic.forever(function () {
                     basic.showArrow(ArrowNames.North)
                     basic.clearScreen()
                     basic.pause(100)
-                    index = 0
+                    index3 = 0
                 }
-                music.ringTone(131 + index)
+                music.ringTone(131 + index3)
                 basic.pause(10)
             }
             music.stopAllSounds()
@@ -136,7 +136,6 @@ basic.forever(function () {
         petmood = randint(1, 5)
     }
 })
-
 ```
 
 ```blocks
