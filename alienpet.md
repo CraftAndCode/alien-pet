@@ -1,3 +1,5 @@
+# Alien Pet
+
 ```package
 core
 radio
@@ -5,6 +7,7 @@ microphone
 proportionalFont=github:lwchkg/pxt-proportional-font
 ```
 ```template
+
 let cleans = 0
 let plays = 0
 let jumps = 0
@@ -137,6 +140,7 @@ basic.forever(function () {
         petmood = randint(1, 5)
     }
 })
+
 ```
 
 ```blocks
