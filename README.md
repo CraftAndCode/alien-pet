@@ -14,7 +14,7 @@ We strongly recommend you to start with completing these three tutorials.
     "description": "Learn to use MakeCode blocks to say hello", 
     "cardType": "tutorial",
     "label": "New? Start here!",
-    "labelClass": "purple ribbon large"
+    "labelClass": "purple ribbon huge"
 },
 {
     "name": "1.2 Showing pictures",
