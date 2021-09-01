@@ -46,7 +46,9 @@ basic.forever(function () {
         petmood = randint(1, 4)
     }
 })
-// can't touch this
+/**
+ * this code is essential for your program to work. Please, don't change it.
+ */
 basic.forever(function () {
     while (petmood != 5) {
         if (petmood == 1) {
