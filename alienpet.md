@@ -1,4 +1,3 @@
-# Alien Pet
 ```package
 core
 radio
