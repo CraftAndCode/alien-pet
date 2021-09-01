@@ -1,5 +1,4 @@
 # Alien Pet
-### @flyoutOnly false
 ```package
 proportionalFont=github:lwchkg/pxt-proportional-font
 ```
