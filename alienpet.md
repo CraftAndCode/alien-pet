@@ -46,6 +46,7 @@ basic.forever(function () {
         petmood = randint(1, 4)
     }
 })
+// can't touch this
 basic.forever(function () {
     while (petmood != 5) {
         if (petmood == 1) {
