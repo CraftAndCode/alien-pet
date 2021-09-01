@@ -1,6 +1,8 @@
 # Alien Pet
 ### @flyoutOnly false
 ```package
+devices
+bluetooth
 proportionalFont=github:lwchkg/pxt-proportional-font
 ```
 ```template
