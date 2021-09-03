@@ -52,7 +52,7 @@ This is a program for your alien pet, with instructions on how to modify it. Thi
 ]
 ```
 
-## Blocks encyclopedia
+## Block encyclopedia
 ### ~avatar
 Welcome to the block encyclopedia, where you can learn everything you need to know about using specific blocks!
 ### ~
