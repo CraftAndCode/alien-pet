@@ -279,14 +279,13 @@ basic.forever(function () {
 })
 ```
 
-
 ## Step 0 @showDialog
 
 Hello! This is a program for your Alien Pet. Let's modify it!
 
-## Step 1 @showHint
-### Changing Pet's expressions
-You can control pet's facial expressions. First, find this place in the code:
+## Step 1 @showDialog
+### 1. Change your pet's expressions
+You can control your pet's facial expressions. First, find this place in the code:
 ```blocks
 soundExpression.hello.play()
 basic.showLeds(`
@@ -305,8 +304,8 @@ basic.showLeds(`
     . # # # .
     `)
 ```
-## Step 2
-### Changing Pet's expressions
+## Step 2 @showHint
+### 2. Change your pet's expressions
 Change the pictures in the ``||basic.show leds||`` blocks.
 ```hint
 Here:
@@ -333,9 +332,9 @@ basic.showLeds(`
     . # # # .
     `)
 ```
-## Step 3 @showHint
-### Create your own mood
-Find this place in the code
+## Step 3 @showDialog
+### 2. Create a new mood
+Find this place in the code:
 ```blocks
 basic.forever(function () {
     while (petmood == 5) {
@@ -353,9 +352,10 @@ basic.forever(function () {
 })
 ```
 ## Step 4 @showHint
-### Create your own mood
+### 2. Create a new mood
 * [ ]Select a new sound in the ``||music.play sound||`` block.  
 * [ ]Change the picture in the ``||basic.show leds||`` block.
+When you are done, download the code to your Micro:bit and test it.
 ```hint
 Select sounds here:
 ```
@@ -379,8 +379,8 @@ basic.showLeds(`
 ```
 
 ## Step 5 @showHint
-### Make your pet fall asleep
-This task is more complex. You need to modify the code as shown. You'll find all the required blocks in your toolbox. When the new code is assembled, your pet should sometimes go to sleep. Shake your pet to wake it up!
+### 3. Send your pet to sleep
+This task is more complex. You will need to modify the code from the previous task as shown. You'll find all the necessary blocks in your toolbox. When the new code is assembled, your pet should sometimes go to sleep. Shake your pet to wake it up!
 ```blocks
 basic.forever(function () {
     while (petmood == 5) {
@@ -395,4 +395,4 @@ basic.forever(function () {
 ```
 
 ## Step 6
-Completed all the tasks? Awesome!
+Completed all the tasks? Awesome! Download the code to your Micro:bit and check the new behavior!
