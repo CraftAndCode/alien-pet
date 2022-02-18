@@ -2,13 +2,16 @@
 ### ~avatar
 Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do fantastic things!
 ### ~
-## Your first steps in the world of coding
-We strongly recommend you to start by working through these three tutorials.
+#### 1. Connect your Micro:bit with a USB cable.
+#### 2. Press the `||led....||` - `||led.Сonnect device||` button and follow the steps given.
+#### 3. Download the program by pressing the `||led.Download||` button.
+#### 4. Learn coding with our interactive tutorials.
 
+## Learn coding
 ```codecard
 [
 {
-"name": "1.1 Your first program",
+"name": "Your first program",
 "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Petimage.svg",
 "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/your-first-program",
 "description": "Learn to use MakeCode blocks to say 'hello'",
@@ -17,7 +20,7 @@ We strongly recommend you to start by working through these three tutorials.
 "labelClass": "purple ribbon huge"
 },
 {
-"name": "1.2 Showing pictures",
+"name": "Showing pictures",
 "imageUrl":"https://github.com/CraftAndCode/Shablon/blob/master/Smileyface.jpg?raw=true",
 "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/showing-pictures",
 "description": "Display images and animations with your Micro:bit",
@@ -26,10 +29,19 @@ We strongly recommend you to start by working through these three tutorials.
 "labelClass": "green ribbon small"
 },
 {
-"name": "1.3 Using buttons",
+"name": "Using buttons",
 "imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Pulse.gif",
 "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/using-buttons",
 "description": "Make your Micro:bit react when buttons are pressed",
+"cardType": "tutorial",
+"label": "Easy",
+"labelClass": "green ribbon small"
+},
+{
+"name": "Making music",
+"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Pulse.gif",
+"url": "https://makecode.microbit.org/#tutorial:github:craftandcode/making-music",
+"description": "Learn to make music with the Micro:bit",
 "cardType": "tutorial",
 "label": "Easy",
 "labelClass": "green ribbon small"
@@ -51,27 +63,3 @@ This is a program for your alien pet, with instructions on how to modify it. Thi
 }
 ]
 ```
-
-## Block encyclopedia
-### ~avatar
-Welcome to the block encyclopedia, where you can learn everything you need to know about using specific blocks!
-### ~
-```cards
-basic.showLeds(`
-. . . . .
-. . . . .
-. . . . .
-. . . . .
-. . . . .
-`)
-basic.showIcon(IconNames.Heart)
-basic.showString("Hello!")
-basic.showArrow(ArrowNames.North)
-input.onButtonPressed(Button.A, function () {
-
-})
-basic.forever(function () {
-
-})
-```
- 
