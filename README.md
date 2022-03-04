@@ -12,7 +12,7 @@ Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do f
 [
 {
 "name": "Your first program",
-"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/Shablon/master/Petimage.svg",
+"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Yourfirstprogram.jpg",
 "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/your-first-program",
 "description": "Learn to use MakeCode blocks to say 'hello'",
 "cardType": "tutorial",
@@ -21,7 +21,7 @@ Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do f
 },
 {
 "name": "Showing pictures",
-"imageUrl":"https://github.com/CraftAndCode/Shablon/blob/master/Smileyface.jpg?raw=true",
+"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Showingpictures.jpg",
 "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/showing-pictures",
 "description": "Display images and animations with your Micro:bit",
 "cardType": "tutorial",
@@ -30,7 +30,7 @@ Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do f
 },
 {
 "name": "Using buttons",
-"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Pulse.gif",
+"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Usingbuttons.jpg",
 "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/using-buttons",
 "description": "Make your Micro:bit react when buttons are pressed",
 "cardType": "tutorial",
@@ -39,7 +39,7 @@ Hello! Welcome to MakeCode, a place where you can program your Micro:bit to do f
 },
 {
 "name": "Making music",
-"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Pulse.gif",
+"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Makingmusic.jpg",
 "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/making-music",
 "description": "Learn to make music with the Micro:bit",
 "cardType": "tutorial",
@@ -54,7 +54,7 @@ This is a program for your alien pet, with instructions on how to modify it. Thi
 [
 {
 "name": "Get to know your alien pet!",
-"imageUrl":"https://github.com/CraftAndCode/Shablon/blob/master/Testgif.gif?raw=true",
+"imageUrl":"https://raw.githubusercontent.com/CraftAndCode/alien-pet/master/Alienpet.jpg",
 "url": "https://makecode.microbit.org/#tutorial:github:craftandcode/alien-pet-test/alienpet",
 "description": "Modify the code for your alien pet with our help",
 "cardType": "tutorial",
